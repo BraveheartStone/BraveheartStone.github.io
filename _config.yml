@@ -1,27 +1,27 @@
 # Site settings
 title: Stone Blog
-SEOTitle: Stone的博客 | BY Blog
-header-img: img/post-bg-desk.jpg
+SEOTitle: Stone的博客 | Stone Blog
+header-img: img/post-bg-deskcat.jpg
 email: 18612117463@163.com
-description: "Every failure is leading towards success."
+description: "Do more, know more, be more."
 keyword: "Stone Blog, Stone的博客, Stone, 石磊, Java, Android, iOS, Apple, iPhone"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+url: "https://braveheartstone.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/BraveheartStone/BraveheartStone.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/about-stone-portrait.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
+zhihu_username:     Strone
+github_username:    Strone
+facebook_username:  Strone
 jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
 
@@ -64,9 +64,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: f2c84e7629bb1446c1a4                            #生成的clientID
   clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  repo: BraveheartStone.github.io    #仓库名称
+  owner: BraveheartStone    #github用户名
+  admin: BraveheartStone
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -102,8 +102,8 @@ friends: [
         title: "WY",
         href: "http://zhengwuyang.com"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "简书·StoneRock",
+        href: "https://www.jianshu.com/u/739ed73780be"
     },{
         title: "Apple",
         href: "https://apple.com"
